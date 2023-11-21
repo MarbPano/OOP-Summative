@@ -367,9 +367,8 @@ What list do you want to Remove From?
     else:
         print("ONLY USE NUMBERS: 1,2,3,4,5")
         continue
-    
-#1. what is the diffirence between OOP and Procedural Coding?
-#	the main diffirencce 
 
+#the questions relating the OOP summative will be handed through google docs, because 
+#I did it here through comments, but did not save. 
 
 
